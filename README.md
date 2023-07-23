@@ -127,4 +127,10 @@ sudo dpkg -r mysql-client
   275  sudo dpkg -r mysql-client
   276  history
 ```
+10. Диаграмма:
+    *1*. Родительский класс.
+    *2*. Подклассы домашние животные и вьючные животные.
+    *3*. Подклассы для домашних животных: собаки, кошки, хомяки.
+    *4*. Подклассы для вьючных животных: лошади, верблюды, ослы.
 
+![Диаграмма](https://github.com/nadushka89/final_developer/blob/main/source/Diagramma.png) 
